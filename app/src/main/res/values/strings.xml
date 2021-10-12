@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+
+    <string name="server_login_login">Ключ устройства</string>
+    <string name="server_login_password">Пароль</string>
+    <string name="server_login_btn">Локальное подключение</string>
+    <string name="server_login_btn_save">Подключится</string>
+    <string name="server_login_btn_QR">Сканировать QR</string>
+    <string name="server_login_QR_error">Неверный QR код</string>
+</resources>
